@@ -12,7 +12,6 @@ void kernel_up(){
 
   // color of terminal(you can change it if you want :D )
   init_vga(WHITE, BLACK);
-  newline_on_terminal();
   logo();
 
 
